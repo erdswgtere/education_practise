@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG EPC.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
+		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st10">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Main process)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ff8080;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#000000;font-family:Calibri;font-size:0.666664em}
+		.st3 {font-size:1em}
+		.st4 {fill:#e6e6e6;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st5 {fill:#80ff80;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st6 {marker-end:url(#mrkr4-37);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.239976}
+		.st7 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.086948582161584}
+		.st8 {fill:#ffff80}
+		.st9 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st10 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-37" class="st7" v:arrowType="4" v:arrowSize="2" v:setback="23.0021" refX="-23.002100210021" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-11.501050105011,-11.501050105011) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="4.25197"
+				v:shadowOffsetY="-4.25197"/>
+		<v:layer v:name="Блок-схема" v:index="0"/>
+		<v:layer v:name="Соединительная линия" v:index="1"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" v:layerMember="0" transform="translate(269.291,-760.394)">
+			<title>Событие</title>
+			<desc>Организация сеанса показа фильма</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="822.756" width="56.7" height="38.2677"/>
+			<path d="M5.91 841.89 L50.79 841.89 L56.69 823.23 L50.79 803.62 L5.91 803.62 L0 823.23 L5.91 841.89 Z" class="st1"/>
+			<text x="6.16" y="815.56" class="st2" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Организация <tspan
+						x="4.53" dy="1.2em" class="st3">сеанса показа </tspan><tspan x="15.15" dy="1.2em" class="st3">фильма</tspan></text>		</g>
+		<g id="shape2-6" v:mID="2" v:groupContext="shape" v:layerMember="0" transform="translate(283.465,-712.319)">
+			<title>Исключающее ИЛИ</title>
+			<desc>XOR</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.1732" cy="827.717" width="28.35" height="28.3465"/>
+			<ellipse cx="14.1732" cy="827.717" rx="14.1732" ry="14.1732" class="st4"/>
+			<text x="7.28" y="830.12" class="st2" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>XOR</text>		</g>
+		<g id="shape3-9" v:mID="3" v:groupContext="shape" v:layerMember="0" transform="translate(198.425,-668.268)">
+			<title>Функция</title>
+			<desc>Зал в выбранную дату свободен</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="822.756" width="56.7" height="38.2677"/>
+			<rect x="0" y="803.622" width="56.6929" height="38.2677" rx="7.08661" ry="7.08661" class="st5"/>
+			<text x="19.67" y="815.56" class="st2" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Зал в <tspan x="8.64"
+						dy="1.2em" class="st3">выбранную </tspan><tspan x="3.62" dy="1.2em" class="st3">дату свободен</tspan></text>		</g>
+		<g id="shape4-14" v:mID="4" v:groupContext="shape" v:layerMember="0" transform="translate(329.642,-668.268)">
+			<title>Функция.4</title>
+			<desc>Зал в выбранную дату занят</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="822.756" width="56.7" height="38.2677"/>
+			<rect x="0" y="803.622" width="56.6929" height="38.2677" rx="7.08661" ry="7.08661" class="st5"/>
+			<text x="19.67" y="815.56" class="st2" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Зал в <tspan x="8.64"
+						dy="1.2em" class="st3">выбранную </tspan><tspan x="10.74" dy="1.2em" class="st3">дату занят</tspan></text>		</g>
+		<g id="shape5-19" v:mID="5" v:groupContext="shape" v:layerMember="0" transform="translate(193.053,-600.862)">
+			<title>Событие.5</title>
+			<desc>Дата сеанса установлена</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="33.7186" cy="819.13" width="67.44" height="45.5201"/>
+			<path d="M7.02 841.89 L60.41 841.89 L67.44 819.7 L60.41 796.37 L7.02 796.37 L0 819.7 L7.02 841.89 Z" class="st1"/>
+			<text x="13.51" y="816.73" class="st2" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Дата сеанса <tspan
+						x="12.5" dy="1.2em" class="st3">установлена</tspan></text>		</g>
+		<g id="shape6-23" v:mID="6" v:groupContext="shape" v:layerMember="0" transform="translate(324.27,-600.862)">
+			<title>Событие.6</title>
+			<desc>Дата сеанса не установлена</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="33.7186" cy="819.13" width="67.44" height="45.5201"/>
+			<path d="M7.02 841.89 L60.41 841.89 L67.44 819.7 L60.41 796.37 L7.02 796.37 L0 819.7 L7.02 841.89 Z" class="st1"/>
+			<text x="8.48" y="816.73" class="st2" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Дата сеанса не <tspan
+						x="12.5" dy="1.2em" class="st3">установлена</tspan></text>		</g>
+		<g id="shape7-27" v:mID="7" v:groupContext="shape" v:layerMember="0" transform="translate(329.642,-540.709)">
+			<title>Функция.7</title>
+			<desc>Поиск свободной даты</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="822.756" width="56.7" height="38.2677"/>
+			<rect x="0" y="803.622" width="56.6929" height="38.2677" rx="7.08661" ry="7.08661" class="st5"/>
+			<text x="18.04" y="815.56" class="st2" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Поиск <tspan x="9.75"
+						dy="1.2em" class="st3">свободной </tspan><tspan x="19.99" dy="1.2em" class="st3">даты</tspan></text>		</g>
+		<g id="shape8-32" v:mID="8" v:groupContext="shape" v:layerMember="1" transform="translate(290.551,-760.394)">
+			<title>Динамическая соединительная линия</title>
+			<path d="M7.09 841.89 L7.09 856.1" class="st6"/>
+		</g>
+		<g id="shape9-38" v:mID="9" v:groupContext="shape" v:layerMember="1" transform="translate(283.465,-726.492)">
+			<title>Динамическая соединительная линия.9</title>
+			<path d="M0 841.89 L-56.69 841.89 L-56.69 856.33" class="st6"/>
+		</g>
+		<g id="shape10-43" v:mID="10" v:groupContext="shape" v:layerMember="1" transform="translate(311.811,-726.492)">
+			<title>Динамическая соединительная линия.10</title>
+			<path d="M0 841.89 L46.18 841.89 L46.18 856.33" class="st6"/>
+		</g>
+		<g id="shape11-48" v:mID="11" v:groupContext="shape" v:layerMember="1" transform="translate(233.858,-668.268)">
+			<title>Динамическая соединительная линия.11</title>
+			<path d="M-7.09 841.89 L-7.09 858.26" class="st6"/>
+		</g>
+		<g id="shape12-53" v:mID="12" v:groupContext="shape" v:layerMember="1" transform="translate(350.902,-668.268)">
+			<title>Динамическая соединительная линия.12</title>
+			<path d="M7.09 841.89 L7.09 858.26" class="st6"/>
+		</g>
+		<g id="shape13-58" v:mID="13" v:groupContext="shape" v:layerMember="1" transform="translate(350.902,-600.862)">
+			<title>Динамическая соединительная линия.13</title>
+			<path d="M7.09 841.89 L7.09 858.26" class="st6"/>
+		</g>
+		<g id="shape17-63" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(192.979,-526.204)">
+			<title>Функция.17</title>
+			<desc>Показ фильма</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="33.7186" cy="819.13" width="67.44" height="45.5201"/>
+			<rect x="0" y="796.37" width="67.4371" height="45.5201" rx="8.42964" ry="8.42964" class="st5"/>
+			<text x="9.56" y="821.53" class="st2" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Показ фильма</text>		</g>
+		<g id="shape26-66" v:mID="26" v:groupContext="shape" v:layerMember="1" transform="translate(233.821,-600.862)">
+			<title>Динамическая соединительная линия.26</title>
+			<path d="M-7.05 841.89 L-7.05 852.52 L-7.12 852.52 L-7.12 865.51" class="st6"/>
+		</g>
+		<g id="shape48-71" v:mID="48" v:groupContext="shape" v:layerMember="0" transform="translate(416.693,-542.126)">
+			<title>Подразделение.48</title>
+			<desc>Менеджер</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.8622" cy="824.173" width="62.01" height="35.4331"/>
+			<path d="M70.87 824.17 A35.4331 17.7165 -180 1 0 0 824.17 A35.4331 17.7165 -180 1 0 70.87 824.17 Z" class="st8"/>
+			<path d="M70.87 824.17 A35.4331 17.7165 -180 1 0 0 824.17 A35.4331 17.7165 -180 1 0 70.87 824.17" class="st9"/>
+			<path d="M8.86 812.57 L8.86 835.8" class="st9"/>
+			<text x="21.24" y="826.57" class="st2" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Менеджер</text>		</g>
+		<g id="shape65-76" v:mID="65" v:groupContext="shape" v:layerMember="1" transform="translate(416.694,-552.756)">
+			<title>Динамическая соединительная линия.65</title>
+			<path d="M0 834.8 L-24.84 834.8" class="st6"/>
+		</g>
+		<g id="shape74-81" v:mID="74" v:groupContext="shape" v:layerMember="1" transform="translate(357.988,-540.709)">
+			<title>Динамическая соединительная линия.74</title>
+			<path d="M0 841.89 L0 854.22 L140.91 854.22 L140.91 603.07 L-26.48 603.07" class="st6"/>
+		</g>
+	</g>
+</svg>
